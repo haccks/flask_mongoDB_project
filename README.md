@@ -10,7 +10,7 @@ Blogger a demo app to test the working of flask with mongoDB followed by the off
         SECRET_KEY='dev_$11@$/9'                    # use a strong secret key
         DATABASE_URI='mongodb://localhost:27017/'   # replace it with your mongoDB server URI if it is not running on local machine.
 
-2. Open terminal and from `flaskTutorial` directory run these commands:
+2. Open terminal and from `flask_mongoDB_project` directory run these commands:
 
         $ export FLASK_APP=Blogger
         $ export FLASK_ENV=development
