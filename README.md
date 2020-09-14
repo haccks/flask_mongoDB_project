@@ -1,7 +1,7 @@
 # Blogger
 A simple blog app using Flask and mongoDB
 
-Blogger a demo app to test the working of flask with mongoDB followed by the official flask [tutorial](https://flask.palletsprojects.com/en/1.1.x/tutorial/). [`jinja2`](https://jinja.palletsprojects.com/en/2.11.x/) is used to create templates and [`pymongo`](https://api.mongodb.com/python/current/api/pymongo/index.html) driver is used to work with mongoDB.
+Blogger a demo app to test the working of flask with mongoDB, adopted form the official flask [tutorial](https://flask.palletsprojects.com/en/1.1.x/tutorial/). [`jinja2`](https://jinja.palletsprojects.com/en/2.11.x/) is used to create templates and [`pymongo`](https://api.mongodb.com/python/current/api/pymongo/index.html) driver is used to work with mongoDB.
 
 ## How to run the app?
 
