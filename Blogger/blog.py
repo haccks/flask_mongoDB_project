@@ -1,6 +1,6 @@
 import functools, datetime
 from flask import (Blueprint, request, redirect, url_for, flash,
-                   render_template, session, g)
+                   render_template, g)
 from werkzeug.exceptions import abort
 from bson.json_util import ObjectId
 from Blogger.db import get_db_client
